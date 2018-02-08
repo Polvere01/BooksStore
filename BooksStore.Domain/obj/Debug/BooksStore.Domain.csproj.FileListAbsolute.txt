@@ -1,0 +1,4 @@
+C:\Users\Ygor\documents\visual studio 2015\Projects\BooksStore\BooksStore.Domain\bin\Debug\BooksStore.Domain.dll
+C:\Users\Ygor\documents\visual studio 2015\Projects\BooksStore\BooksStore.Domain\bin\Debug\BooksStore.Domain.pdb
+C:\Users\Ygor\documents\visual studio 2015\Projects\BooksStore\BooksStore.Domain\obj\Debug\BooksStore.Domain.dll
+C:\Users\Ygor\documents\visual studio 2015\Projects\BooksStore\BooksStore.Domain\obj\Debug\BooksStore.Domain.pdb
